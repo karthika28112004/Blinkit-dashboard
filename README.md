@@ -30,13 +30,18 @@ The dashboard focuses on the following primary KPIs:
 
 ### Data Sources
 Static datasets imported from Excel (Blinkit Grocery Data.xlsx), containing attributes such as:
+
  Sales transactions, ratings, item types, outlet sizes, fat content, locations, and outlet establishment dates
 
 ### Features & Highlights
 Interactive Filters: Slice data by outlet type, size, and product category
+
 Key KPIs: Track total sales, average sale, item count, and customer rating
+
 Trend Analysis: Visualize outlet establishment growth and YOY sales trends
+
 Category Insights: Analyze sales by fat content and major item types
+
 Outlet Comparison: Compare performance across outlet sizes, types, and tiers
 
 ### Demo
