@@ -21,8 +21,11 @@ The dashboard focuses on the following primary KPIs:
 
 ### Key Insights
 1.Consumers favor low‑fat items (≈64% of sales)
+
 2.Fruits & Vegetables and Snacks top the sales charts (~$0.18M each)
+
 3.Medium outlets in Tier‑3 cities are the most profitable (42% sales)
+
 4.Stores established around 2018 show peak revenue (~$205K)
 
 ### Data Sources
