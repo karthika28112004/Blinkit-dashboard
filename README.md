@@ -5,7 +5,9 @@ This Power BI project presents an end-to-end analysis of Blinkit's grocery sales
 
 ### Tech stack
  Power BI Desktop: data modeling, measures, dashboards
+ 
  DAX: for calculated fields and key metrics
+ 
  Excel: as the primary data source
 
 ### Key Performance Indicators (KPIs)
