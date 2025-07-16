@@ -49,5 +49,5 @@ Outlet Comparison: Compare performance across outlet sizes, types, and tiers
 ### Demo
 <img width="1132" height="699" alt="Blinkit " src="https://github.com/user-attachments/assets/916afd07-8399-4411-a3b6-3ef9837ec7c6" />
 
-
+### NOTE : The following analysis is purely educational and was conducted as part of a learning project.
 
